@@ -1,8 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application. Exploring flutter :)
 
-## Getting Started
+<a href="https://gfycat.com/gifs/detail/SparklingWaryHamster"><img src="https://thumbs.gfycat.com/SparklingWaryHamster-size_restricted.gif" ></a>
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
